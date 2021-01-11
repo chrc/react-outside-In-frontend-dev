@@ -1,3 +1,5 @@
+https://outsidein.dev/react/5-edge-cases.html#loading-indicator
+
 # chrc-rect-tdd
 
 An app for tracking reviews of dishes at different restaurants.
